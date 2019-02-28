@@ -1,11 +1,9 @@
 # MHRTO_NEW_REGISTRATION _ 
 TEAM NAME: 404NOTFOUND
 
-MEMBERS:Aboli Marathe
-
-        Mufaddal Diwan 
-        
-        Hussain Nahpurwala
+MEMBERS:Aboli Marathe   , 
+        Mufaddal Diwan  ,       
+        Hussain Nahpurwala.
 
 COLLEGE: PICT PUNE(SPPU)       
 
