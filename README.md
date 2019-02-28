@@ -2,7 +2,7 @@
 TEAM NAME: 404NOTFOUND
 
 MEMBERS:Aboli Marathe  , 
-        Mufaddal Diwan ,Hussain Nahpurwala.
+        Mufaddal Diwan ,Hussain Naharpurawala.
 
 COLLEGE: PICT PUNE(SPPU)       
 
